@@ -1,9 +1,16 @@
 ### Hi there 👋
 
 🔭 I’m currently working on ...
+
 <a href="https://github.com/PhraxayaM/Instagram"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhraxayaM&repo=Instagram" width=350> </a>
 
 😄 Pronouns: He/Him
+⚡ Fun fact:
+- I visited Europe for a month. I was able to visit Monte Carlo, Paris, Lyon, and Germany.
+- My favorite dessert is cheesecake
+- My favorite dog breed is an English Bulldog
+-  My favorite emoji is 🤔
+
 <!--
 **PhraxayaM/PhraxayaM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
