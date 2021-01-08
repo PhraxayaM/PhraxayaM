@@ -2,7 +2,7 @@
 
 <strong>🔭 Currently focusing on...</strong>
 
-<a href="https://github.com/PhraxayaM/StyleOfMe"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhraxayaM&repo=StyleOfMeh" width=350> </a>
+<a href="https://github.com/PhraxayaM/StyleOfMe"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhraxayaM&repo=StyleOfMe" width=350> </a>
 
 😄 Pronouns: He/Him
 
